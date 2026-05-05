@@ -59,16 +59,18 @@ Model performance was evaluated using:
 # Visualizations
 
 ### Model Accuracy Comparison
-![Accuracy](results/accuracy_comparison.png)
+![Accuracy](results/model_accuracy.png)
 
 ### Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/confusion.png)
 
 ### Feature Importance
 ![Feature Importance](results/feature_importance.png)
 
 ### Correlation Matrix
-![Correlation Matrix](results/correlation_matrix.png)
+![Correlation Matrix](results/correlation.png)
+
+
 
 ---
 
